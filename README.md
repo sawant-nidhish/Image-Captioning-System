@@ -8,3 +8,5 @@ Use the trained model file named model_final.h5 to test using Image_Captioning_T
 The mode also works for videos. 
 
 Uncomment the last cell in the code to use video as input
+
+Link to pretrained model: https://drive.google.com/file/d/1TuWUMpmQFU7quew6J5JYcTZ0qaPhL-O4/view?usp=sharing
